@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=306
+
+Add a document header to your function. The headers can be parsed and converted into documentation by the gtk-doc tools.
